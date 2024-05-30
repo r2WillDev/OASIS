@@ -1,0 +1,6 @@
+@OASIS_HostAddress = http://localhost:5029
+
+GET {{OASIS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
